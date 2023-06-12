@@ -8,10 +8,10 @@ https://public.tableau.com/app/profile/anna.gubareva/viz/NewYorkCityAirBnB/Dashb
 
 ## Process
 
-Step #1 connect the data
-Step #2 explore the data
-Step #3 create charts using the data
-Step #4 Create interactive dashboard
+##Step #1 connect the data
+##Step #2 explore the data
+##Step #3 create charts using the data
+##Step #4 Create interactive dashboard
 
 
 ## Results
