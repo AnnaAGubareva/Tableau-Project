@@ -27,7 +27,7 @@ Questions which can be answered by my visualization of data:
 1)	What are average prices for AirBnB based on region?
 2)	What is the area with the most AirBnB listings?
 3)	What are type of listings in each particular region?
-4)	What is the number AirBnB listings per seitan year?
+4)	What is the number AirBnB listings per certain year?
 5)	What are most popular listings in the area?
 6)	What are the most popular listings based on review score and numbers of reviews?  
 
